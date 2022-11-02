@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Natiba/deploy-app-album.git/static/css/main.073c9b0a.css",
+    "main.js": "/Natiba/deploy-app-album.git/static/js/main.7f8264ac.js",
+    "static/js/787.f4b2d72a.chunk.js": "/Natiba/deploy-app-album.git/static/js/787.f4b2d72a.chunk.js",
+    "static/media/logo.svg": "/Natiba/deploy-app-album.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Natiba/deploy-app-album.git/index.html",
+    "main.073c9b0a.css.map": "/Natiba/deploy-app-album.git/static/css/main.073c9b0a.css.map",
+    "main.7f8264ac.js.map": "/Natiba/deploy-app-album.git/static/js/main.7f8264ac.js.map",
+    "787.f4b2d72a.chunk.js.map": "/Natiba/deploy-app-album.git/static/js/787.f4b2d72a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7f8264ac.js"
+  ]
+}
